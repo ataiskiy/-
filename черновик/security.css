@@ -1,0 +1,51 @@
+body{
+        background-image: url("C:/Users/ASUS/Pictures/Снимок.png");
+        background-repeat: no-repeat;
+        background-size: 1000px 500px;
+    }
+    h1{font-size: 35px; text-align: center;}
+    p{text-align: center;}
+    pre{color: rgb(21, 255, 0);
+    font-size: 55px;
+    border: 5px solid rgb(9, 206, 2);}
+    a :link {
+    color: green;
+    background-color: royalblue;
+    text-decoration: none;
+    }
+    a:visited{
+        color: #000;
+        background-color: chartreuse;
+        text-decoration: none;
+    }
+    a:active{
+        color: yellow;
+        background-color: coral;
+        text-decoration: underline;
+    }
+    a:hover{
+        color: blueviolet;
+        background-color: rgb(8, 184, 31);
+        text-decoration: underline;}
+    .atai {
+        color: blueviolet;
+        background-color: rgb(8, 184, 31);
+        text-decoration: underline;
+    }
+th, tr{
+    border: 1px red; 
+    border-radius: 20px;
+    border-style: solid;
+}
+.tttt{
+    border: 5px solid black;
+}
+.rrrr{
+    border: 5px solid blue;
+}
+tr, th{
+    background-color: maroon;
+}
+.ssss{
+    border-style: #000;
+}
